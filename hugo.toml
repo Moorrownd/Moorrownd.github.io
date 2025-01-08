@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = "https://github.com/Moorrownd/Moorrownd.github.io"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-monochrome"
+relativeURLs = true
+canonifyURLs = true
